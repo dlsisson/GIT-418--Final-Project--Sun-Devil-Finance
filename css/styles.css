@@ -354,13 +354,6 @@ body.light #themeToggle svg {
   right: 1rem;
 }
 
-@media (max-width: 1024px) {
-  .slide-caption {
-    left: 1.5rem;
-    padding: 1rem 1.5rem;
-    max-width: 60%;
-  }
-
   .slide-caption h2 {
     font-size: 1.5rem;
   }
