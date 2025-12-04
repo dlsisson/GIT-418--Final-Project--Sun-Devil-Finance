@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 193.12,
+    "change": "+4.25%",
+    "sector": "Technology",
+    "summary": "Apple designs consumer electronics like the iPhone, iPad, and Mac."
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "price": 238.45,
+    "change": "+4.03%",
+    "sector": "Automotive",
+    "summary": "Tesla builds electric vehicles and renewable energy systems."
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "price": 410.55,
+    "change": "+3.78%",
+    "sector": "Technology",
+    "summary": "Microsoft develops software products and cloud services like Azure."
+  }
+]
